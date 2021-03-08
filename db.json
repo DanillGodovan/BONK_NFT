@@ -1,6 +1,6 @@
 {
    "tokens": [
-                {
+       {
       "id": 0,
       "description": "My first NFT on ERC721",
       "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
